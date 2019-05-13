@@ -1,0 +1,21 @@
+
+Feature list:	
+--------------------------------
+
+
+--------------------------------
+Change logs: 			|
+--------------------------------
+
+
+version 1.1 (14 September 17):
+----------------------------------
+1. Blog / Article / Page from Shopify Store
+2. Multi layout Post
+3. Share Page / Post
+4. Fixed a few small bugs
+
+
+version 1.0 (31 May 17):
+----------------------------------
+- Initial release

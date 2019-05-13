@@ -1,0 +1,15 @@
+import React from 'react';
+import { Dimensions } from 'react-native';
+
+var device = Dimensions.get('window');
+var scale;
+
+if (device.width <= 414) {
+	//Android smartphones
+	scale = device.width / 414;
+} else{
+	//Android tablets
+	scale = 1;
+}
+
+module.exports = { scale: scale };
